@@ -30,3 +30,11 @@ More updates coming soon
 # Permissions (Basics)
 - chmod – change permissions
 - chown – change owner
+
+
+## Process & System Commands
+
+- ps – view running processes
+- top – monitor system processes
+- uptime – system running time
+- whoami – current user
