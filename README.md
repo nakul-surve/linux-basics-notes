@@ -38,3 +38,36 @@ More updates coming soon
 - top – monitor system processes
 - uptime – system running time
 - whoami – current user
+
+
+## Linux File Permissions
+
+Linux controls access to files using permissions.
+
+### Permission Types
+- r (read): allows viewing file content
+- w (write): allows modifying file content
+- x (execute): allows running a file or script
+
+### Permission Groups
+- User (owner)
+- Group
+- Others
+
+### Example
+-rwxr-xr--
+
+This means:
+- User: read, write, execute
+- Group: read, execute
+- Others: read only
+
+### Common Commands
+- ls -l
+- chmod
+- chown
+
+### Why It Matters in DevOps
+- Securing servers
+- Controlling access
+- Preventing unauthorized execution
