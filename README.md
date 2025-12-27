@@ -116,3 +116,5 @@ tail -f /var/log/syslog
 - Debugging issues
 - Security monitoring
 - Incident investigation
+
+Learning focus: Linux fundamentals for cloud and production systems.
