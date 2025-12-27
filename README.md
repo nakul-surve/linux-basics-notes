@@ -71,3 +71,48 @@ This means:
 - Securing servers
 - Controlling access
 - Preventing unauthorized execution
+
+
+## Linux Process Management
+
+Processes are running programs in Linux. Managing them is critical in servers and production systems.
+
+### Common Commands
+- ps        → shows running processes
+- top       → real-time process monitoring
+- htop      → improved version of top (if installed)
+- kill      → terminate a process
+- kill -9   → force kill a process
+
+### Example
+ps aux | grep nginx
+
+This helps find running services like web servers.
+
+### Why It Matters in DevOps
+- Monitor application health
+- Troubleshoot high CPU or memory usage
+- Restart failed services
+
+## Linux Logs Basics
+
+Logs help understand what happened in a system.
+
+### Common Log Locations
+- /var/log/syslog
+- /var/log/auth.log
+- /var/log/nginx/
+
+### Useful Commands
+- cat
+- less
+- tail
+- tail -f
+
+### Example
+tail -f /var/log/syslog
+
+### Why Logs Matter
+- Debugging issues
+- Security monitoring
+- Incident investigation
