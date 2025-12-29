@@ -1,6 +1,6 @@
 # Linux Basics Notes
 
-This repository contains Linux commands and notes that I am learning as part of my DevOps journey.
+This repository contains beginner-friendly Linux notes focused on real server usage.
 
 Topics:
 - Basic Linux commands
@@ -109,6 +109,8 @@ Logs help understand what happened in a system.
 - tail
 - tail -f
 
+- ps aux | grep nginx
+  
 ### Example
 tail -f /var/log/syslog
 
@@ -118,3 +120,5 @@ tail -f /var/log/syslog
 - Incident investigation
 
 Learning focus: Linux fundamentals for cloud and production systems.
+
+Why this matters: These commands are commonly used while debugging servers and applications.
