@@ -77,7 +77,9 @@ This means:
 
 Processes are running programs in Linux. Managing them is critical in servers and production systems.
 
-### Common Commands
+
+
+### Common Commands.
 - ps        → shows running processes
 - top       → real-time process monitoring
 - htop      → improved version of top (if installed)
