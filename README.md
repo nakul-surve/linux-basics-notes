@@ -125,3 +125,4 @@ Learning focus: Linux fundamentals for cloud and production systems.
 
 Why this matters: These commands are commonly used while debugging servers and applications.
 more detail added
+my linux commands for devops
