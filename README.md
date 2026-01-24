@@ -8,8 +8,6 @@ Topics:
 - Permissions
 - Process basics
 
-More updates coming soon 
-
 
 # Basic Linux Commands
 
