@@ -30,7 +30,7 @@ Topics:
 - chown – change owner
 
 
-## Process & System Commands
+## Process & System 
 
 - ps – view running processes
 - top – monitor system processes
